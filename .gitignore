@@ -1,0 +1,35 @@
+# ── Datos y outputs (no subir al repo) ───────────────────────
+data/
+out/
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Entornos virtuales ────────────────────────────────────────
+venv/
+.venv/
+env/
+.env
+
+# ── IDEs ──────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.code-workspace
+
+# ── Jupyter ───────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── OS ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Distribución / build ──────────────────────────────────────
+dist/
+build/
+*.egg-info/
