@@ -1,6 +1,11 @@
 # ── Datos y outputs (no subir al repo) ───────────────────────
 data/
-out/
+
+out/*
+!out/*.png
+!out/*.jpg
+!out/*.jpeg
+!out/*.gif
 
 # ── Python ────────────────────────────────────────────────────
 __pycache__/
